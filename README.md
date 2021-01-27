@@ -2,15 +2,13 @@
 
 ## Application
 
-This is our team project, an e-commerce site called Dev-Sweater. This application was broken into two parts: `Dev-Sweater-Front` & `Dev-Sweater-Back`. The `Dev-Sweater-Front` was designed to communicate with `Dev-Sweater-Back` API, so that a user can go through the process of purchasing a product.
+Dev-Sweater is a full-stack E-commerce web application where users can purchase sweaters using Stripe Checkout technology. This application was broken into two parts: `Dev-Sweater-Front` & `Dev-Sweater-Back`. The `Dev-Sweater-Front` is the client side of the application, designed to communicate with `Dev-Sweater-Back` API, so that a user can go through the process of purchasing a product.
 
 ## Important Links
 
-- `Dev-Sweater-Back` is deployed [here](https://dev-sweater-back.herokuapp.com/)
-
-- `Dev-Sweater-Front` is the **_Frontend_** for this application, the repo and deployed links can be found here:
-  [Repo Link](https://github.com/Team-Project-GA/Dev-Sweater-Front)
-  [Deployed Link](https://team-project-ga.github.io/Dev-Sweater-Front/)
+- Deployed API: [Dev-Sweater API](https://dev-sweater-back.herokuapp.com/)
+- Deployed Client: [Dev-Sweater Client](https://team-project-ga.github.io/Dev-Sweater-Front/)
+- Client Repo: [Dev-Sweater-Front Repo](https://github.com/Team-Project-GA/Dev-Sweater-Front)
 
 ## Products
 
@@ -24,7 +22,7 @@ This is our team project, an e-commerce site called Dev-Sweater. This applicatio
 
 ## Planning Story
 
-We started by creating the ERD, Wireframes and SCRUM planning for the project. We then created the **_Backend_** of the application before moving to the **_Frontend_** to confirm my API routes were working. Lastly, we deployed both parts of the application and added styling.
+We started by creating the ERD, Wireframes and the user stories our applicatin needed. Using Agile Methodologies we conducted daily stand ups spearheaded by the SCRUM Master and the SCRUM Team Coordinator to plan all the sprints required for the successful completion of the project. We then created the API for Dev-Sweater before moving onto the client side of the application to test the API routes we created. After successful testing, we added styling to the client side and deployed both the API and the client of the application.
 
 #### Technologies Used
 
