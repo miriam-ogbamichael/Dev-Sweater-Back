@@ -6,11 +6,11 @@ Dev-Sweater is a full-stack E-commerce web application where users can purchase 
 
 ## Important Links
 
-- Deployed API: [Dev-Sweater API](https://dev-sweater-back.herokuapp.com/)
-- Deployed Client: [Dev-Sweater Client](https://team-project-ga.github.io/Dev-Sweater-Front/)
-- Client Repo: [Dev-Sweater-Front Repo](https://github.com/Team-Project-GA/Dev-Sweater-Front)
+- Deployed API: [Dev-Sweater API](https://dev-sweater-api.herokuapp.com/)
+- Deployed Client: [Dev-Sweater Client](https://miriam-ogbamichael.github.io/Dev-Sweater-Front/)
+- Client Repo: [Dev-Sweater-Front Repo](https://github.com/miriam-ogbamichael/Dev-Sweater-Front)
 
-## Products
+## Catalog of Routes
 
   | Verb   | URI Pattern  | Controller#Action  |
   |:-------|:-------------|:-------------------|
@@ -24,7 +24,7 @@ Dev-Sweater is a full-stack E-commerce web application where users can purchase 
 
 We started by creating the ERD, Wireframes and the user stories our applicatin needed. Using Agile Methodologies we conducted daily stand ups spearheaded by the SCRUM Master and the SCRUM Team Coordinator to plan all the sprints required for the successful completion of the project. We then created the API for Dev-Sweater before moving onto the client side of the application to test the API routes we created. After successful testing, we added styling to the client side and deployed both the API and the client of the application.
 
-#### Technologies Used
+## Technologies Used
 
 - Express
 - MongoDB Atlas
